@@ -1,4 +1,4 @@
-import type { Metadata } from 'next/types'
+import type { Metadata } from 'next'
 import './globals.css'
 import { Preloader } from '@/components/preloader'
 
